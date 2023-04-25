@@ -1,4 +1,4 @@
-# [](https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/canisius.sidearmsports.com/images/responsive_2021/logo_main.svg) Unit 3 Project- Buffalo 311 Forecast
+# [](https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/canisius.sidearmsports.com/images/responsive_2021/logo_main.svg)Unit 3 Project- Buffalo 311 Forecast
 DAT 512 Canisius College <br>
 Professor Paul Lambson<br>
 <br>
