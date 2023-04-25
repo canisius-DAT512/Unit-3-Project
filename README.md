@@ -13,10 +13,10 @@ To allow students to demonstrate the following competencies:
 
 ### Prompt
 ---
-Create a full-year forecast for  [Buffalo 311 Cases](https://data.buffalony.gov/Quality-of-Life/311-Service-Requests/whkc-e5vr)
+Create a full-year 2023 forecast for  [Buffalo 311 Cases](https://data.buffalony.gov/Quality-of-Life/311-Service-Requests/whkc-e5vr)
 #### Forecast Rules
 - Use a time period of data ending on 12-31-2022
-- Add regressor(s), at least holidays
+- Add holidays
 ### Project Requirements
 ---
 In a Jupyter Notebook, create working solutions that demonstrate all the Learning Objectives. The notebook should include:
