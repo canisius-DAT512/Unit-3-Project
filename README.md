@@ -2,6 +2,7 @@
 DAT 512 Canisius College <br>
 Professor Paul Lambson<br>
 <br>
+> Due May 10th, 2023
 ### Learning Objectives
 ---
 To allow students to demonstrate the following competencies:
